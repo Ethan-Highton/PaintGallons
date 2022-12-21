@@ -164,7 +164,7 @@ public class MainClass {
 		Sgals.setColumns(10);
 		
 		JLabel lblNewLabel_1 = new JLabel("Squarefootage");
-		lblNewLabel_1.setBounds(20, 344, 74, 14);
+		lblNewLabel_1.setBounds(20, 344, 98, 14);
 		Single.add(lblNewLabel_1);
 		
 		JLabel lblNewLabel_1_1 = new JLabel("# of gallons");
@@ -186,7 +186,7 @@ public class MainClass {
 		Single.add(lblWidth_1);
 		
 		JLabel lblNewLabel_1_3 = new JLabel("Squarefootage");
-		lblNewLabel_1_3.setBounds(20, 437, 74, 14);
+		lblNewLabel_1_3.setBounds(20, 437, 95, 14);
 		Single.add(lblNewLabel_1_3);
 		
 		tSsqrf = new JTextField();
