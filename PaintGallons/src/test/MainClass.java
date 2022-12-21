@@ -868,6 +868,6 @@ public class MainClass {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setTitle("Wall Area");
 		frame.setVisible(true);
-		frame.setSize(760, 538);
+		frame.setSize(892, 538);
 	}
 }
